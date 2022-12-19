@@ -11,7 +11,7 @@ require (
 	github.com/go-resty/resty/v2 v2.7.0
 	github.com/imdario/mergo v0.3.13
 	github.com/r3labs/diff/v2 v2.15.1
-	github.com/sagernet/sing v0.1.0
+	github.com/sagernet/sing v0.1.1
 	github.com/sagernet/sing-shadowsocks v0.1.0
 	github.com/shirou/gopsutil/v3 v3.22.11
 	github.com/spf13/viper v1.14.0
