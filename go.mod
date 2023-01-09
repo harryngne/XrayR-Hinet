@@ -11,7 +11,7 @@ require (
 	github.com/go-resty/resty/v2 v2.7.0
 	github.com/imdario/mergo v0.3.13
 	github.com/r3labs/diff/v2 v2.15.1
-	github.com/sagernet/sing v0.1.0
+	github.com/sagernet/sing v0.1.3
 	github.com/sagernet/sing-shadowsocks v0.1.0
 	github.com/shirou/gopsutil/v3 v3.22.11
 	github.com/spf13/viper v1.14.0
@@ -168,7 +168,7 @@ require (
 	golang.org/x/exp v0.0.0-20221204150635-6dcec336b2bb // indirect
 	golang.org/x/mod v0.7.0 // indirect
 	golang.org/x/oauth2 v0.2.0 // indirect
-	golang.org/x/sys v0.3.0 // indirect
+	golang.org/x/sys v0.4.0 // indirect
 	golang.org/x/text v0.5.0 // indirect
 	golang.org/x/tools v0.3.0 // indirect
 	google.golang.org/api v0.103.0 // indirect
